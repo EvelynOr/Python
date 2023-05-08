@@ -1,4 +1,5 @@
-## 2.1.1 EDA Trabajadores 👨‍💻👩🏻‍💼
+## 2.1 EDA Trabajadores 👨‍💻👩🏻‍💼
+
 Nivel: principiantes, sin ningun conocimiento previo en Python o Power BI
 
 Objetivo del proyecto
