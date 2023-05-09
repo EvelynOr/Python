@@ -1,6 +1,6 @@
 ## Varios ejercicios realizados en el proceso de aprendizaje de 🅿🆈🆃🅷🅾🅽
 
-Cada uno de los archivos están enumerados y aparecen en el mismo orden en el área de files.
+Cada uno de los archivos están enumerados y aparecen en el área de files.
 
 #### 2.5 EDA Wine 🍷 (EDA, Exploratory Data Analysis / Análisis Exploratorio de Datos)
 
