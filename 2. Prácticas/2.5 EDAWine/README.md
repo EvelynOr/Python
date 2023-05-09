@@ -1,4 +1,4 @@
-### 2.5 EDA Wine 🍷
+## 2.5 EDA Wine 🍷
 
 
 #### EDA (por sus siglas en inglés exploratory data analysis)
