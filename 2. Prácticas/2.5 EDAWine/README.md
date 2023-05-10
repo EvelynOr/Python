@@ -14,7 +14,7 @@ Sin ningun conocimiento previo en Python
 #### Objetivo del proyecto:
 Documentar el aprendizaje de Python para el análisis de datos.
 
-Se presenta el mismo proyecto en: Python, Power BI (cuando aplican los análisis) y Excel
+Se presenta el mismo proyecto en: Python, SQL, Power BI (cuando aplican los análisis) y Excel
 
 
 #### Contenido
