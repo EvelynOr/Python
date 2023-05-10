@@ -2,8 +2,9 @@
 
 a) Uso de Jupyter Lab 
 
-b) Uso de colab para Pandas-Profiling
-
+b) Uso de colab para Pandas-Profiling, el notebook y el informe en html
+   
+   
 #### EDA (por sus siglas en inglés exploratory data analysis)
 
 El análisis exploratorio de datos es un enfoque para analizar datos con el fin de resumir las principales características de los datos y obtener una mejor comprensión de los mismos, descubrir relaciones entre diferentes variables y extraer variables importantes para el problema que se trata de resolver (Data Analysis with Python, Coursera).
