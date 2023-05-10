@@ -19,7 +19,9 @@ Se presenta el mismo proyecto en: Python, SQL, Power BI (cuando aplican los aná
 
 #### Contenido
 
-Se resumen las principales características de los datos, obtener una mejor comprensión de los mismos, descubrir relaciones entre diferentes variables, incluye:
+Se resumen las principales características de los datos, obtener una mejor comprensión de los mismos, descubrir relaciones entre diferentes variables.
+
+Incluye:
 
 1.Estadísticas descriptivas
 
