@@ -36,8 +36,6 @@ Incluye:
 
 #### Otras librerías que se pueden utilizar en un EDA
 
-• Sweetviz
-
 • Autoviz
 
 • D-Tale
