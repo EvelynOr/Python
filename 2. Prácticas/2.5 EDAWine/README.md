@@ -2,7 +2,7 @@
 
 a) Uso de Jupyter Lab 
 
-b) Uso de colab enel uso de Pandas Profiling
+b) Uso de colab para Pandas Profiling
 
 #### EDA (por sus siglas en inglés exploratory data analysis)
 
