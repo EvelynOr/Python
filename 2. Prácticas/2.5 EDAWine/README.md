@@ -2,7 +2,11 @@
 
 a) Uso de Jupyter Lab 
 
-b) Uso de colab para Pandas-Profiling, el notebook y el informe en html
+b) Uso de colab para:
+
+b.1) Pandas-Profiling, notebook e informe en html
+
+b.2) Sweetviz,  notebook e informe en html
    
    
 #### EDA (por sus siglas en inglés exploratory data analysis)
