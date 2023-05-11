@@ -34,7 +34,10 @@ Incluye:
 
 3.Resumen de funciones y metodos basicos en el analisis
 
-#### Otras librerías que se pueden utilizar en un EDA
+#### Librerías que se pueden utilizar para hacer un EDA
+• Pandas-Profiling
+
+• Sweetviz
 
 • Autoviz
 
