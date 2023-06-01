@@ -8,6 +8,8 @@
 
 
 
+
+
 ### 2. Varios ejercicios realizados en el proceso de aprendizaje de 🅿🆈🆃🅷🅾🅽
 
 #### 2.5 EDA Wine 🍷 (Exploratory Data Analysis / Análisis Exploratorio de Datos)
