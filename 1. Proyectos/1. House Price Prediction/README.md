@@ -9,7 +9,7 @@ El objetivo es aplicar técnicas de análisis de datos y aprendizaje automático
 
 # Pasos del Proyecto:
 ### 1. Recopilación de datos:
-El conjunto de datos "Boston Housing" originalmente era de la biblioteca scikit-learn de Python y se obutvo de un repositorio de Github.
+El conjunto de datos "Boston Housing" originalmente era de la biblioteca scikit-learn de Python y se obutvo de su repositorio de Github, https://github.com/scikit-learn/scikit-learn/blob/main/sklearn/datasets/data/boston_house_prices.csv.
 El dataset contiene información sobre las características de viviendas, como el número de habitaciones, la tasa de criminalidad, la proporción de estudiantes y maestros, entre otros, junto con los precios de las viviendas.
 
 ### 2. Preparación de datos:
