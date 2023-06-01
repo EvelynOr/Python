@@ -1,13 +1,14 @@
 # Python
  Proyectos, Prácticas y Ejercicios realizaos en el proceso de aprendizaje de Python 
 
-## 1. Proyectos
+### 1. Proyectos
 
 #### Proyecto 1: Predicción de Precios de Viviendas . . . en proceso 👌 🤓
 
 
 
-## 2. Varios ejercicios realizados en el proceso de aprendizaje de 🅿🆈🆃🅷🅾🅽
+
+### 2. Varios ejercicios realizados en el proceso de aprendizaje de 🅿🆈🆃🅷🅾🅽
 
 #### 2.5 EDA Wine 🍷 (Exploratory Data Analysis / Análisis Exploratorio de Datos)
 
