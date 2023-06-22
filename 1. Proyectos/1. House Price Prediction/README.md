@@ -5,15 +5,20 @@
 
 Picture: realtor.com
 
-En este proyecto, se utilizó el conjunto de datos "Boston Housing" para construir un modelo de regresión lineal en Python que predice los precios de las viviendas en varios vecindarios de Boston. 
+En este proyecto, se utilizó el conjunto de datos de "Boston Housing", las etapas realizadas son:
 
-El objetivo es aplicar técnicas de análisis de datos y aprendizaje automático con Python, para desarrollar un modelo.
+a) Realizar un EDA
+
+b) Proceso de seleccion y evaluacion de un modelo de regresión lineal que predice los precios de las viviendas 
+
+c) 
+
+Objetivo del proyecto: aplicar técnicas de análisis de datos y aprendizaje automático con Python, para desarrollar un modelo.
 
 # Pasos del Proyecto:
 ### 1. Recopilación de datos:
-El conjunto de datos "Boston Housing" fue recopilada originalmente por el [U.S. Census Service](https://www.cs.toronto.edu/~delve/data/boston/bostonDetail.html), relativa a la vivienda en la zona de Boston Mass
+El conjunto de datos "Boston Housing" fue recopilada originalmente por el [U.S. Census Service](https://www.cs.toronto.edu/~delve/data/boston/bostonDetail.html), relativa a la vivienda en la zona de Boston Mass. La data se obutvo del repositorio de [scikit-learn](https://github.com/scikit-learn/scikit-learn/blob/main/sklearn/datasets/data/boston_house_prices.csv)
 
-originalmente era de la biblioteca scikit-learn de Python y se obutvo en Github, https://github.com/scikit-learn/scikit-learn/blob/main/sklearn/datasets/data/boston_house_prices.csv.
 El dataset contiene información sobre las características de viviendas, como el número de habitaciones, la tasa de criminalidad, la proporción de estudiantes y maestros, entre otros, junto con los precios de las viviendas.
 
 
