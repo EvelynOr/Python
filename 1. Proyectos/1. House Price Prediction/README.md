@@ -26,7 +26,7 @@ Se exploran correlaciones entre las características y los precios de las vivien
 Se identificaron valores atípicos o patrones inusuales que requieran atención.
 
 
-### Etapa 3: Seleccion del modelo
+### Etapa 3: Definición del modelo
 
 # Resultados
 
