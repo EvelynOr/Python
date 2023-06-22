@@ -6,7 +6,11 @@ Picture: realtor.com
 
 
 ### Objetivo del proyecto: 
-Aplicar técnicas de análisis de datos y aprendizaje automático con Python, para desarrollar un modelo.
+Aplicar técnicas de análisis de datos y aprendizaje automático con Python
+
+
+### Pregunta de investigacion
+¿Cuál es el mejor modelo para predecir el precio de la vivienda en Boston?
 
 # Etapas del Proyecto
 
