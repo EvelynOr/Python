@@ -8,7 +8,7 @@ Picture: realtor.com
 ### Objetivo del proyecto: 
 Aplicar técnicas de análisis de datos y aprendizaje automático con Python, para desarrollar un modelo.
 
-# Etapas del Proyecto:
+# Etapas del Proyecto
 
 ### Etapa 1. Recopilación de datos:
 El conjunto de datos "Boston Housing" fue recopilada originalmente por el [U.S. Census Service](https://www.cs.toronto.edu/~delve/data/boston/bostonDetail.html), relativa a la vivienda en la zona de Boston Mass. Los datos fueron publicados originalmente por Harrison, D. y Rubinfeld, D.L. en 'Hedonic prices and the demand for clean air', en J. Environ. Economics & Management, vol.5, 81-102, 1978.
@@ -23,3 +23,9 @@ Se identificaron valores atípicos o patrones inusuales que requieran atención.
 
 
 ### Etapa 3: Seleccion del modelo
+
+# Resultados
+
+# Análisis  
+
+# Referencias 
