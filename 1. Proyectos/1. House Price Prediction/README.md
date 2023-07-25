@@ -21,9 +21,9 @@ La data se obutvo del repositorio de [scikit-learn](https://github.com/scikit-le
 
 
 ### Etapa 2. Análisis exploratorio de datos (EDA por sus siglas en inglés):
-Se realizan visualizaciones y análisis descriptivos para comprender la distribución de las variables y las relaciones entre ellas.
-Se exploran correlaciones entre las características y los precios de las viviendas utilizando gráficos de dispersión o matrices de correlación.
-Se identificaron valores atípicos o patrones inusuales que requieran atención.
++ Se realizan visualizaciones y análisis descriptivos para comprender la distribución de las variables y las relaciones entre ellas.
++ Se exploran correlaciones entre las características y los precios de las viviendas utilizando gráficos de dispersión o matrices de correlación.
++ Se identificaron valores atípicos o patrones inusuales que requieran atención.
 
 
 ### Etapa 3: Definición del modelo
