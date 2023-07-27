@@ -4,6 +4,8 @@
 
 Picture: realtor.com
 
+### Nivel
+Principiante
 
 ### Objetivo del proyecto: 
 Aplicar técnicas de análisis de datos y aprendizaje automático con Python
