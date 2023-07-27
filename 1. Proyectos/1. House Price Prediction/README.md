@@ -26,7 +26,7 @@ La data se obutvo del repositorio de [scikit-learn](https://github.com/scikit-le
 + Se identificaron valores atípicos o patrones inusuales que requieran atención.
 
 
-### Etapa 3: Definición del modelo
+### Etapa 3: Selección del modelo
 
 # Resultados
 
