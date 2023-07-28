@@ -12,7 +12,7 @@ El proyecto desarrolla modelos de machine learning que permita predecir los prec
 
 
 ### Objetivo del proyecto: 
-Aplicar técnicas de análisis de datos y aprendizaje automático con Python
+Aplicar técnicas de análisis de datos y aprendizaje automático (machine learning) con Python
 
 
 ### Pregunta de investigacion
