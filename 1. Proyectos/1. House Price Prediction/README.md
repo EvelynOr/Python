@@ -51,8 +51,8 @@ La data se obutvo del repositorio de [scikit-learn](https://github.com/scikit-le
 # Análisis 
 
 # Beneficios del Proyecto
-+ Adquirirás experiencia en el desarrollo de modelos de machine learning para aplicaciones del mundo real.
-+ Trabajar con datos del mundo inmobiliario, lo que te permitirá comprender mejor este sector y sus dinámicas.
++ Adquirir experiencia en el desarrollo de modelos de machine learning para aplicaciones del mundo real.
++ Trabajar con datos del mundo inmobiliario, para comprender mejor el sector y sus dinámicas.
 + Aplicar habilidades como analista de datos en un contexto real.
   
 # Referencias 
