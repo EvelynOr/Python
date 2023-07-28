@@ -4,6 +4,9 @@
 
 Picture: realtor.com
 
+![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
+
+
 ### Descripcion del Proyecto
 El proyecto desarrolla modelos de machine learning que permita predecir los precios de casas en función de diversas características inmobiliarias. 
 
