@@ -1,4 +1,4 @@
-# Proyecto: Modelos para la Estimacion de Precios de Vivienda basado en Datos Inmobiliarios 
+# Proyecto: Modelos para la Estimacion de Precios de Vivienda  
 
 ![House-modified](https://github.com/EvelynOr/Python/assets/82233779/504439eb-fbab-49a9-a799-20f339d1652c)
 
