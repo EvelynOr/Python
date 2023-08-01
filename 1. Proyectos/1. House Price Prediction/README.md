@@ -24,7 +24,7 @@ Principiante
 # Etapas del Proyecto
 
 ### Etapa 1. Recopilación de datos:
-El conjunto de datos "Boston Housing" fue recopilada originalmente por el [U.S. Census Service](https://www.cs.toronto.edu/~delve/data/boston/bostonDetail.html), relativa a la vivienda en la zona de Boston Mass. Los datos fueron publicados originalmente por Harrison, D. y Rubinfeld, D.L. en 'Hedonic prices and the demand for clean air', en J. Environ. Economics & Management, vol.5, 81-102, 1978.
+El conjunto de datos "Boston Housing" fue recopilada originalmente por el [U.S. Census Service](https://www.cs.toronto.edu/~delve/data/boston/bostonDetail.html), relativa a la vivienda en la zona de Boston Mass. Los datos fueron publicados originalmente por Harrison, D. y Rubinfeld, D.L. en 'Hedonic prices and the demand for clean air', en J. Environ. Economics & Management, vol.5, 81-102, 1978. 
 
 El conjunto de datos contiene información sobre el valor de la vivienda en los suburbios de Boston. Incluye 506 secciones censales del Área Estadística Metropolitana de Boston (SMSA). El SMSA incluye Boston y varias ciudades y pueblos vecinos, por lo que el conjunto de datos abarca una zona más amplia que la propia ciudad de Boston.
 
