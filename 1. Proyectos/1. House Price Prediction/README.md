@@ -24,7 +24,8 @@ Principiante
 # Etapas del Proyecto
 
 ### Etapa 1. Recopilación de datos:
-El conjunto de datos "Boston Housing" fue recopilada originalmente por el [U.S. Census Service](https://www.cs.toronto.edu/~delve/data/boston/bostonDetail.html), relativa a la vivienda en la zona de Boston Massachusetts. Los datos fueron publicados originalmente por [Harrison, D. y Rubinfeld, D.L. en 'Hedonic prices and the demand for clean air', en J. Environ. Economics & Management, vol.5, 81-102, 1978.](https://www.researchgate.net/profile/Daniel-Rubinfeld/publication/4974606_Hedonic_housing_prices_and_the_demand_for_clean_air/links/5c38ce85458515a4c71e3a64/Hedonic-housing-prices-and-the-demand-for-clean-air.pdf) 
+El conjunto de datos "Boston Housing" fue recopilada originalmente por el [U.S. Census Service](https://www.cs.toronto.edu/~delve/data/boston/bostonDetail.html), relativa a la vivienda en la zona de Boston Massachusetts. Los datos fueron publicados originalmente por [Harrison, D. y Rubinfeld, D.L. en 'Hedonic prices and the demand for clean air', en J. Environ. Economics & Management, vol.5, 81-102, 1978.](https://www.researchgate.net/profile/Daniel-Rubinfeld/publication/4974606_Hedonic_housing_prices_and_the_demand_for_clean_air/links/5c38ce85458515a4c71e3a64/Hedonic-housing-prices-and-the-demand-for-clean-air.pdf ) 
+
 
 El conjunto de datos contiene información sobre el valor de la vivienda en los suburbios de Boston. Incluye 506 secciones censales del Área Estadística Metropolitana de Boston (SMSA). El SMSA incluye Boston y varias ciudades y pueblos vecinos, por lo que el conjunto de datos abarca una zona más amplia que la propia ciudad de Boston.
 
