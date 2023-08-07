@@ -26,8 +26,11 @@ Principiante
 ### Etapa 1. Recopilación de datos:
 El conjunto de datos "Boston Housing" fue recopilada originalmente por el [U.S. Census Service](https://www.cs.toronto.edu/~delve/data/boston/bostonDetail.html), relativa a la vivienda en la zona de Boston Massachusetts. Los datos fueron publicados originalmente por [Harrison, D. y Rubinfeld, D.L. en 'Hedonic prices and the demand for clean air', en J. Environ. Economics & Management, vol.5, 81-102, 1978.](https://www.researchgate.net/profile/Daniel-Rubinfeld/publication/4974606_Hedonic_housing_prices_and_the_demand_for_clean_air/links/5c38ce85458515a4c71e3a64/Hedonic-housing-prices-and-the-demand-for-clean-air.pdf ) 
 
+El conjunto de datos contiene información sobre el valor de la vivienda. Depende la fuente consultada, indican que los registros corresponden a fuentes como: 
++ a) 506 secciones censales del Área Estadística Metropolitana de Boston (SMSA). El SMSA incluye Boston y varias ciudades y pueblos vecinos, por lo que el conjunto de datos abarca una zona más amplia que la propia ciudad de Boston.
++ b) 506 vecindarios especificos dentro de la ciudad de Boston. No se tienen disponibles los nombres de los vecindarios para mantener la privacidad de las personas y propiedades involucradas. 
 
-El conjunto de datos contiene información sobre el valor de la vivienda en los suburbios de Boston. Incluye 506 secciones censales del Área Estadística Metropolitana de Boston (SMSA). El SMSA incluye Boston y varias ciudades y pueblos vecinos, por lo que el conjunto de datos abarca una zona más amplia que la propia ciudad de Boston.
+Esta definicion es importante al momento que se quieran ajustar los precios de la vivienda (MEDV) a la inflación.
 
 El conjunto de datos ha sido utilizado en una variedad de estudios de investigación, como: estudios sobre la economía del mercado inmobiliario, la discriminación en la vivienda, el impacto de la política pública en los precios de la vivienda y comúnmente como conjunto de datos de prueba para los algoritmos de aprendizaje automático.
 
