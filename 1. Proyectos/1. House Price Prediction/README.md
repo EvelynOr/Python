@@ -69,4 +69,4 @@ La data se obutvo del repositorio de [scikit-learn](https://github.com/scikit-le
 
 ### Disclaimer 
 
-El proyecto se realizó como proceso de autoaprendizaje en Python y Maching LEarning, a la fecha no ha sido revisado por expertos en el tema.
+El proyecto se realizó como proceso de autoaprendizaje en Python y Maching Learning, a la fecha no ha sido revisado por expertos en el tema.
