@@ -57,7 +57,7 @@ La data se obutvo del repositorio de [scikit-learn](https://github.com/scikit-le
 4. Implementación y Despliegue: 
 
 5. Resultados
-- Variables que podrían explicar el nivel de precios
+- Variables que podrían explicar el nivel de precios: LSTAT, RM, INDUS, PTRATIO, TAX, NOX y RAD.    
 - Factor de ajuste de inflación a los precios, 14.06
 - A priori se puede decir que los precios de las viviendas tienen un determinante cultural
   
