@@ -14,12 +14,3 @@
 
 
 
-#### 2.5 EDA Wine 🍷 (Exploratory Data Analysis / Análisis Exploratorio de Datos)
-
-#### 2.4 Prueba de Normalidad: 
-
-#### 2.3 Modelo de Regresion Lineal
-
-#### 2.2 EDA Automobile 🚗 🚘 (EDA, Exploratory Data Analysis / Análisis Exploratorio de Datos)
-
-#### 2.1 EDA Trabajadores (EDA, Exploratory Data Analysis / Análisis Exploratorio de Datos)
