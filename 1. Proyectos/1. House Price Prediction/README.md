@@ -61,15 +61,15 @@ La data se obutvo del repositorio de [scikit-learn](https://github.com/scikit-le
 - Factor de ajuste de inflación a los precios, 14.06
 - A priori se puede decir que los precios de las viviendas tienen un determinante cultural
   
-# Análisis 
+## Análisis 
 
-# Beneficios del Proyecto
+## Beneficios del Proyecto
 + Adquirir experiencia en el desarrollo de modelos de machine learning para aplicaciones del mundo real.
 + Trabajar con datos del mundo inmobiliario, para comprender mejor el sector y sus dinámicas.
 + Aplicar habilidades como analista de datos en un contexto real.
   
 
-# Recursos
+## Recursos
 
 #### Disclaimer 
 
