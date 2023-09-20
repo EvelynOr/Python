@@ -50,9 +50,9 @@ La data se obutvo del repositorio de [scikit-learn](https://github.com/scikit-le
 
 1. Se sutilizó la biblioteca LazyPredict para identificar el modelo más adecuado para el conjunto de datos. 
 
-2. Entrenamiento y Ajuste del Modelo. se dividió la data en tres conjuntos: de entrenamiento (train), validación y prueba (test) para entrenar, validar y probar el modelo.  
+2. Entrenamiento y Ajuste del Modelo. Se dividió la data en tres conjuntos: de entrenamiento (train), validación y prueba (test) para entrenar, validar y probar el modelo.  
 
-3. Evaluación del Modelo: se utilizaron las metricas: R-Squared, Adjusted R-Squared, Error cuadrático medio (MSR) y Raíz cuadrática media (RMSE).
+3. Evaluación del Modelo. Se utilizaron las metricas: R-Squared, Adjusted R-Squared, Error cuadrático medio (MSR) y Raíz cuadrática media (RMSE).
 
 4. Implementación y Despliegue: 
 
