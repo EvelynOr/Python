@@ -48,21 +48,21 @@ La data se obutvo del repositorio de [scikit-learn](https://github.com/scikit-le
 
 #### Primer Modelo: Gradient Boosting [Regressor](https://github.com/EvelynOr/Python/blob/main/1.%20Proyectos/1.%20House%20Price%20Prediction/Etapa%203_%20SeleccionModelo_BostonHousing%20.ipynb) 
 
-- 1. Aplicación de varios algoritmo de machine learning y seleccionar el más adecuado para este problema  
+- 1.Aplicación de varios algoritmo de machine learning y seleccionar el más adecuado para este problema  
 
 En la primera aproximacion se sutilizó la biblioteca LazyPredict para identificar  el modelo más adecuado para el conjunto de datos. Se aplicó un Gradient Boosting Regressor
 
-- 2. Entrenamiento y Ajuste del Modelo
+- 2.Entrenamiento y Ajuste del Modelo
 
 Se dividió la data en tres conjuntos: de entrenamiento (train), validación y prueba (test) para entrenar, validar y probar el modelo.  
 
-- 3. Evaluación del Modelo: 
+- 3.Evaluación del Modelo: 
 
 Se utilizaron las metricas: R-Squared, Adjusted R-Squared, Error cuadrático medio (MSR) y Raíz cuadrática media (RMSE).
 
-- 4. Implementación y Despliegue: 
+- 4.Implementación y Despliegue: 
 
-- 5. Resultados
+- 5.Resultados
 - Variables que podrían explicar el nivel de precios
 - Factor de ajuste de inflación a los precios, 14.06
 - A priori se puede decir que los precios de las viviendas tienen un determinante cultural
