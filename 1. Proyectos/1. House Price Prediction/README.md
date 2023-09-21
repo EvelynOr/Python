@@ -71,9 +71,9 @@ La data se obutvo del repositorio de [scikit-learn](https://github.com/scikit-le
 
 ## Recursos
 
-- https://www.kaggle.com/
+- www.kaggle.com
 
-- https://cienciadedatos.net/
+- cienciadedatos.net
   
 Disclaimer 
 
