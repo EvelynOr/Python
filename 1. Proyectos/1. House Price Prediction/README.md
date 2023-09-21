@@ -74,7 +74,8 @@ La data se obutvo del repositorio de [scikit-learn](https://github.com/scikit-le
 - www.kaggle.com
 
 - cienciadedatos.net
-  
+
+#
 Disclaimer 
 
 El proyecto se realizó como proceso de autoaprendizaje de Python y conceptos básicos de Maching Learning
