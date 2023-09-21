@@ -10,7 +10,7 @@
 
 
 
-##### 2. Varios [ejercicios](https://github.com/EvelynOr/Python/tree/main/2.%20Pr%C3%A1cticas) realizados en el proceso de aprendizaje 
+### 2. Varios [ejercicios](https://github.com/EvelynOr/Python/tree/main/2.%20Pr%C3%A1cticas) realizados en el proceso de aprendizaje 
 
 
 
