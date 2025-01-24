@@ -4,7 +4,7 @@
 #### 1. Proyectos
 
 
-###### [Proyecto 1:](https://github.com/EvelynOr/Python/tree/main/1.%20Proyectos/House%20Price%20Prediction) Predicción de Precios de Viviendas . . . en proceso👌 🤓
+###### Predicción de Precios de [Viviendas](https://github.com/EvelynOr/Python/tree/main/1.%20Proyectos/House%20Price%20Prediction)  . . . en proceso👌 🤓
 
 
 
